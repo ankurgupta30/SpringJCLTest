@@ -1,0 +1,1 @@
+This is to check how spring-JCL can be used; which is thin API which tries to see of log4j or slf4j libs are present; if No; default Java util logging will be used.
